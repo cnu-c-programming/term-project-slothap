@@ -1,3 +1,4 @@
+// 프로그램 시작, 인자 처리, main loop
 /*
  * main.c  –  Mini Student Shell
  *

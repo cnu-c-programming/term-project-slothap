@@ -1,3 +1,4 @@
+# PART: 빌드 자동화 (수정 불요)
 CC     = gcc
 CFLAGS = -Wall -Wextra -std=c11
 
